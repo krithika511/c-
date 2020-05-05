@@ -8,7 +8,7 @@ int main()
  {
   cin>>array[i];
  }
- cout<<"you entered";
+ cout<<"you entered:";
  for(i=0;i<5;i++)
  {
   cout<<*(array+i)<<endl;
